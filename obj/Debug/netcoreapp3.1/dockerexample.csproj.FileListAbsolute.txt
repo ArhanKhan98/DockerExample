@@ -1,0 +1,10 @@
+C:\Users\com 1\source\repos\dockerexample\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\com 1\source\repos\dockerexample\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\com 1\source\repos\dockerexample\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\com 1\source\repos\dockerexample\bin\Debug\netcoreapp3.1\dockerexample.exe
+C:\Users\com 1\source\repos\dockerexample\obj\Debug\netcoreapp3.1\dockerexample.csprojAssemblyReference.cache
+C:\Users\com 1\source\repos\dockerexample\obj\Debug\netcoreapp3.1\dockerexample.AssemblyInfoInputs.cache
+C:\Users\com 1\source\repos\dockerexample\obj\Debug\netcoreapp3.1\dockerexample.AssemblyInfo.cs
+C:\Users\com 1\source\repos\dockerexample\obj\Debug\netcoreapp3.1\dockerexample.RazorTargetAssemblyInfo.cache
+C:\Users\com 1\source\repos\dockerexample\obj\Debug\netcoreapp3.1\staticwebassets\dockerexample.StaticWebAssets.Manifest.cache
+C:\Users\com 1\source\repos\dockerexample\obj\Debug\netcoreapp3.1\staticwebassets\dockerexample.StaticWebAssets.xml
